@@ -1,0 +1,13 @@
+// function sumar(a, b) {
+//   return a + b;
+// }
+
+// const sumar = (a, b) => {
+//   return a + b
+// }
+
+const sumar = (a, b) => a + b;
+const saludar = () => 'Hola';
+
+console.log(sumar(4, 3))
+console.log(saludar())
