@@ -4,4 +4,5 @@
 * const-var-let 
 * desestructuracion
 * flecha
+* promesas
 * template-string
